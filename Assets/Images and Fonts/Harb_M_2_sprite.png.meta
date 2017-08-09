@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 0e5b95ab38fdf5f43950f53ae11db277
+timeCreated: 1501243506
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Harb_M_2_sprite_0
+    21300002: Harb_M_2_sprite_1
+    21300004: Harb_M_2_sprite_2
+    21300006: Harb_M_2_sprite_3
+    21300008: Harb_M_2_sprite_4
+    21300010: Harb_M_2_sprite_5
+    21300012: Harb_M_2_sprite_6
+    21300014: Harb_M_2_sprite_7
+    21300016: Harb_M_2_sprite_8
+    21300018: Harb_M_2_sprite_9
+    21300020: Harb_M_2_sprite_10
+    21300022: Harb_M_2_sprite_11
+    21300024: Harb_M_2_sprite_12
+    21300026: Harb_M_2_sprite_13
+    21300028: Harb_M_2_sprite_14
+    21300030: Harb_M_2_sprite_15
+    21300032: Harb_M_2_sprite_16
+    21300034: Harb_M_2_sprite_17
+    21300036: Harb_M_2_sprite_18
+    21300038: Harb_M_2_sprite_19
+    21300040: Harb_M_2_sprite_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 675
+        width: 358
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 672
+        width: 353
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 680
+        width: 357
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 678
+        width: 354
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 677
+        width: 360
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 511
+        width: 353
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 503
+        width: 353
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 505
+        width: 353
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 506
+        width: 357
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 511
+        width: 363
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 348
+        width: 353
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 344
+        width: 362
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 344
+        width: 361
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 349
+        width: 363
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 349
+        width: 367
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 359
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 163
+        width: 362
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 163
+        width: 356
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 167
+        width: 358
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 163
+        width: 359
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harb_M_2_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 354
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
