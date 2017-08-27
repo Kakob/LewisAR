@@ -112,7 +112,7 @@ AnimatorState:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: End17
-  m_Speed: 1
+  m_Speed: 0
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -165,7 +165,7 @@ AnimatorStateMachine:
     m_Position: {x: 204, y: 48, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102519939441837694}
-    m_Position: {x: 239, y: 113, z: 0}
+    m_Position: {x: 240, y: 120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102371978016301068}
     m_Position: {x: 274, y: 178, z: 0}

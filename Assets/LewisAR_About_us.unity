@@ -389,8 +389,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 35.1}
-  m_SizeDelta: {x: 677, y: 297.5}
+  m_AnchoredPosition: {x: 9, y: 215.3}
+  m_SizeDelta: {x: 677, y: 694.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &707886331
 MonoBehaviour:
@@ -413,10 +413,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -424,16 +424,20 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Lewis Music Library originally functioned as a music lounge when it
-    opened as part of Hayden Library in 1951. Over the years, this space evolved into
-    a music library. The library was totally renovated in October 1996 when it was
-    renamed the Rosalind Denny Lewis Music Library. The library acquires materials
-    that support the music curriculum and serve the reference, research, and recreational
-    needs of the MIT community.
+  m_Text: 'Join us in the Lewis Music Library, 14E-109, to experience John Harbison''s
+    Canon in a new way!
 
 
-    Lewis is an innovative space, constantly seeking to leverage technology to augment
-    your experience of the library!'
+    The Lewis Music Library originally functioned as a music lounge when it opened
+    as part of Hayden Library in 1951. Over the years, this space evolved into a music
+    library. The library was totally renovated in October 1996 when it was renamed
+    the Rosalind Denny Lewis Music Library. The library acquires materials that support
+    the music curriculum and serve the reference, research, and recreational needs
+    of the MIT community.
+
+
+    We at Lewis are excited to demonstrate the potential augmented and mixed reality
+    applications hold in "augmenting" the traditional library experience.'
 --- !u!222 &707886332
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -487,7 +491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -496,10 +500,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: cc11f177fa7cd4d1794423d33b92a6d8, type: 3}
-    m_FontSize: 14
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -638,8 +642,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 421.67078}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 0.000011444, y: 124}
+  m_SizeDelta: {x: 223.5, y: 62.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1633149803
 MonoBehaviour:
@@ -660,7 +664,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: 0.5147059, g: 0.4448543, b: 0.42766005, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}

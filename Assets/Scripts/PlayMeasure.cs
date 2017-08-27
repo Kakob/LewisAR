@@ -32,7 +32,7 @@ public class PlayMeasure : MonoBehaviour
             {
                 anim.SetTrigger("startMeasure");
                 measurePlayed = true;
-                Debug.Log("Played! at " + music.time);
+                //Debug.Log("Played! at " + music.time);
             }
         }
     }

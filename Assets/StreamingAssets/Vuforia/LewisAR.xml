@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Murals5" size="20.000000 26.666666" />
-    <ImageTarget name="Murals4" size="20.000000 26.666666" />
-    <ImageTarget name="Murals2" size="20.000000 26.666666" />
-    <ImageTarget name="Murals1" size="20.000000 26.666666" />
-    <ImageTarget name="LewisARLogoNew-01" size="20.000000 16.000000" />
-    <ImageTarget name="Murals3" size="20.000000 26.646107" />
-    <ImageTarget name="Murals6" size="20.000000 26.666666" />
-    <ImageTarget name="NewPF6" size="20.000000 10.139751" />
-    <ImageTarget name="NewPF5" size="20.000000 9.928514" />
-    <ImageTarget name="NewPF4" size="20.000000 9.025326" />
-    <ImageTarget name="NewPF3" size="20.000000 8.692366" />
-    <ImageTarget name="NewPF2" size="20.000000 8.899298" />
-    <ImageTarget name="NewPF1" size="20.000000 8.270230" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural1" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural2" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural3" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural4" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural5" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural6" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural7" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural8" size="20.000000 46.125935" />
+    <ImageTarget name="CONSOLIDATEDMURALS_Mural9" size="20.000000 46.125935" />
+    <ImageTarget name="LewisARLogoX" size="20.000000 20.000000" />
   </Tracking>
 </QCARConfig>

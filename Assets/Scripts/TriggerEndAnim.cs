@@ -11,6 +11,7 @@ public class TriggerEndAnim : MonoBehaviour {
         anim = GetComponent<Animator>();
 
         anim.SetTrigger("EndAnim");
+		anim.speed = 0;
 	}
 	
 }
