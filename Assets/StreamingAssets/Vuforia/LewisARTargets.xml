@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mural9" size="20.000000 46.125935" />
+    <ImageTarget name="Mural8" size="20.000000 46.125935" />
+    <ImageTarget name="Mural7" size="20.000000 46.125935" />
+    <ImageTarget name="Mural6" size="20.000000 46.125935" />
+    <ImageTarget name="Mural5" size="20.000000 46.125935" />
+    <ImageTarget name="Mural4" size="20.000000 46.125935" />
+    <ImageTarget name="Mural3" size="20.000000 46.125935" />
+    <ImageTarget name="Mural2" size="20.000000 46.125935" />
+    <ImageTarget name="Mural1" size="20.000000 46.125935" />
+  </Tracking>
+</QCARConfig>
